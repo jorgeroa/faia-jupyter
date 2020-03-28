@@ -1,3 +1,9 @@
+# Faia using java jupyter notebooks
+
+[![Launch IJava binder][binder-badge-img]](https://mybinder.org/v2/gh/makkuro-kuroe/faia-java-notebook/master) [![Launch IJava lab binder][binder-lab-badge-img]](https://mybinder.org/v2/gh/makkuro-kuroe/faia-java-notebook/master?urlpath=lab)
+
+`(cambiar los links luego de hacer fork del proyecto)`
+
 # ijava-binder
 
 
