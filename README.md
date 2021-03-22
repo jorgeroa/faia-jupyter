@@ -1,6 +1,6 @@
 # Faia using java jupyter notebooks
 
-[![Launch IJava binder][binder-badge-img]](https://mybinder.org/v2/gh/makkuro-kuroe/faia-java-notebook/master) [![Launch IJava lab binder][binder-lab-badge-img]](https://mybinder.org/v2/gh/makkuro-kuroe/faia-java-notebook/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jorgeroa/faia-jupyter/master)
 
 `NOTE: You must update the links above if you fork this project in order to use your files.`
 
